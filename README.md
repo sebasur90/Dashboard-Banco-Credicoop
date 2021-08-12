@@ -5,7 +5,7 @@ Descargar los movimientos de cuenta  de https://www.bancocredicoop.coop/personas
 Una vez descargados ,crear una carpeta con el nombre "datasets" dentro de Credicoop_dashboard  ,copiarlo dentro y renombrarlo como "mov.csv".
 Por ultimo instalar el archivo "requeriments.tx" con el comando pip install -r requirements.txt para tener todas las librerias necesarias. ( recomiendo crear un entorno virtual)
 
-Correr el programa ejecutando el archivo "index.py".
+Correr el programa ejecutando el archivo "index.py",el cual nos va a proporcionar una direccion http para poder ingresar a la web(host).
 En el caso de que algún grafico no cargue adecuadamente, refrescar la pagina con F5.
 
 
