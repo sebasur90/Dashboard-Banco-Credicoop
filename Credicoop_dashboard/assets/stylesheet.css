@@ -1,0 +1,230 @@
+.columnas_sueldos_heat{
+    column-count:3;
+    padding-top: 30px;
+    
+}
+
+
+
+
+.graftortaanos{
+    width: 30%;
+}
+
+body{
+    
+    background-color: #1C1F2A;
+
+    background-attachment: fixed;
+
+    
+    
+}
+
+
+
+
+.grafico_con_info{
+    display: inline-block;
+    width: 60%;
+}
+
+.info_grafico{
+    display: inline-block;
+    width: 40%;
+    
+}
+
+.info_grafico:after {
+    content: '';
+    display: inline-block;
+    width: 10%;
+}
+  
+
+
+
+
+.boton{
+    background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+
+
+.div_tarjetas_deck{
+margin:0 auto;
+}
+
+.titulo{
+
+    text-align:center;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    padding-left:50px;
+    padding-right:50px;
+    right:0;
+    left:0;
+    width: 100%;
+}
+
+.titulo2{
+
+    text-align:center;
+    color:white;
+    padding: 20px;
+    padding-bottom: 100px;
+}
+
+.dropdown_div{
+    color: black;
+
+}
+
+.drop_anos {
+    display: block;
+    position: absolute;
+    background-color:black;
+    color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+
+.drop_anos-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+
+
+
+.Select-multi-value-wrapper,.Select-value-label,.Select-value-icon,.Select-control,.Select-value,.Select has-value is-clearable is-searchable Select--multi{
+    border:0;
+    background-color: #1C1F2A;
+    color: white;
+
+}
+
+
+
+
+.leyenda_graficos_70{
+    color: white;
+    font-family:  'Sen', sans-serif;
+    width: 70%;
+    padding-left:80px
+}
+
+.leyenda_graficos_100{
+    color: white;
+    font-family:  'Sen', sans-serif;
+    padding-left:80px
+    
+}
+
+.leyenda_graficos_33{
+    color: white;
+    font-family:  'Sen', sans-serif;
+    width: 80%;
+    text-align: center;
+    padding-left:70px
+    
+}
+
+
+.leyenda_graficos_50{
+    color: white;
+    font-family:  'Sen', sans-serif;
+    width: 80%;
+    text-align: center;
+    padding-left:40px
+    
+}
+
+
+
+
+.graficos_repetidos{
+column-count: 2;
+padding-top: 30px;
+
+}
+
+.body_graficos{
+    position: relative;
+    padding-left:50px;
+    padding-right:50px;
+}   
+
+h4{
+    font-size: 18px;
+    color: white;
+}
+
+.cartas{
+padding-left:250px;
+padding-top:100px;
+padding-right:250px;
+
+}
+
+.card {
+background-color: transparent;
+border: 1px solid white;
+text-align: center;
+
+}
+
+
+
+.graf_datos_importantes1{
+padding:0;
+}
+
+
+
+.green{
+color: green;
+font-size:50px;
+display: inline-block;
+}
+
+.red{
+color: red;
+font-size:50px;
+display: inline-block;
+}
+
+.div_promedio{
+display: inline-block;
+text-align: center;
+padding-top:0;
+}
+
+
+
+
+
+.primero{
+display: inline-block;
+
+}
+.contenedorb{
+display: flex;
+
+}
+.selector_concepto{
+    color: black;
+}
+
+.div_tarjetas_2{
+
+    padding: 150px;
+}
