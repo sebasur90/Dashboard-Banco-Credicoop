@@ -2,7 +2,7 @@
 Dashboard para los movimientos de cuenta del Banco Credicoop bajo el framework Dash.
 
 Descargar los movimientos de cuenta  de https://www.bancocredicoop.coop/personas a traves de la opcion "Generar archivo Movimientos de Cuentas".
-Una vez descargados ,renombrar el archivo como "mov.csv" y copiarlo dentro de la carpeta "datasets".
+Una vez descargados ,crear una carpeta con el nombre "datasets" dentro de Credicoop_dashboard  ,copiarlo dentro y renombrarlo como "mov.csv".
 Por ultimo instalar el archivo "requeriments.tx" con el comando pip install -r requirements.txt para tener todas las librerias necesarias. ( recomiendo crear un entorno virtual)
 
 Correr el programa ejecutando el archivo "index.py".
